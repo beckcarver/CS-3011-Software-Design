@@ -1,0 +1,43 @@
+Program 3 - User's Manual
+-------------------------
+
+This iteration of the game introduces movable tiles to the user. The 
+user has the freedom to place a numbered tile into any empty square
+on the game board or holding area.
+
+Playing the Game:
+	
+	Goal:
+	
+	
+	Gameplay:
+	
+	
+	Misc:
+
+
+Menu Buttons:
+
+	Quit Button:
+	- Left-click the Quit button to close the windows
+	
+	Reset Button: 
+	- Reset the game board to its original configuration
+	
+	New Game Button: 
+
+
+Movable Tiles:
+
+	Selection:
+	- Left-click on a non-empty tile to select a tile to move
+	- A selected tile's border is highlighted in red 
+
+	Movement:
+	- Left-click on an empty tile space to move the tile
+	- Tiles can be moved to game board OR to columns along the side
+
+	Error detection ensures you cannot:
+	- Overlap two tiles in the holding area or on the gameboard
+	- Place tiles in non-tile areas
+	- Cause an error by clicking on the same tile multiple times

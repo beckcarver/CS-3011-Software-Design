@@ -1,0 +1,17 @@
+*.class
+*.jar
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.iso
+*.project
+# do not include annoying MAC files
+*.DS_Store
+*.DS_Store?
+# different editors, different backup files. 
+*._*
+*.*~
+*.bak
+/bin/
+/.metadata/

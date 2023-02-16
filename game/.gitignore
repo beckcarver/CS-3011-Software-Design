@@ -1,0 +1,6 @@
+# eclipse likes to put the generated .class files in a 
+# bin dir. This keeps us from saving those to git because we can always make new
+# ones. 
+/bin/
+*.project
+/.metadata/
