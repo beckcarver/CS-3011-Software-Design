@@ -1,4 +1,4 @@
-# D #
+# Group D #
 ## Repository for Spring 2021 ##
 
 ### Group D, Team-name: Delta ###
